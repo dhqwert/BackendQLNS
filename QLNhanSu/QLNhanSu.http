@@ -1,0 +1,6 @@
+@QLNhanSu_HostAddress = http://localhost:5075
+
+GET {{QLNhanSu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
